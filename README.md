@@ -1,2 +1,1 @@
-# Image-Converter
-Coverting images to other extension 📷
+# Coverting images to other extension 📷
