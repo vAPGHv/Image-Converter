@@ -14,7 +14,9 @@ try:
     ico.save(input(
         "Enter new name: "
     ))
+    input()
 
 except Exception as ex:
     print(Fore.BLACK + Back.RED, end="")
     print(f"Oops, error: \"{ex}\"")
+    input()
